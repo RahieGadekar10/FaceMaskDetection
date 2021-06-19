@@ -1,6 +1,6 @@
 # maskdetection
 
-Face Mask Detection 
+Face Mask Detection
 
 COVID-19 spreads mainly from person to person through respiratory droplets. Respiratory droplets travel into the air when you cough, sneeze, talk, shout, or sing. These droplets can then land in the mouths or noses of people who are near you or they may breathe these droplets in.
 
